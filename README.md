@@ -1,3 +1,5 @@
 # Key_lock
 
-Khóa điện tử sử dụng mật khẩu 5 số mã HEX
+Digital Keylock used 5 Hex numbers password to open
+
+Used Microcontroller AT89C52 to decrypt
